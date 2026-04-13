@@ -5,9 +5,9 @@
  , word net , text classification , word feature , feature engineering , navie bayes ,sentiment analysis 
       check for basics 
       </br>
-    - <a>  https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL </a>
-    - <a> https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D </a>
-    - <a> https://www.youtube.com/watch?v=33kb37NYOTc&list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM </a>
+    - youtube basics <a>  https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL </a>
+    - youtube basics <a> https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D </a>
+    - youtube basics <a> https://www.youtube.com/watch?v=33kb37NYOTc&list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM </a>
 
 classical types 
   - semantic analysis
