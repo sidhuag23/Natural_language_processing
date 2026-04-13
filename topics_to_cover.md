@@ -6,8 +6,13 @@
       check for basics 
       </br>
     - youtube basics <a>  https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL </a>
+    </br>
     - youtube basics <a> https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D </a>
+    </br>
     - youtube basics <a> https://www.youtube.com/watch?v=33kb37NYOTc&list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM </a>
+    </br>
+    - youtube basics <a> https://www.youtube.com/watch?v=xvqsFTUsOmc&list=PLGTJdqDBAxoyyxKqcS9b0A89NRXZxfK5i </a>
+    
 
 classical types 
   - semantic analysis
