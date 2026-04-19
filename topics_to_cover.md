@@ -12,13 +12,51 @@
     - youtube basics <a> https://www.youtube.com/watch?v=33kb37NYOTc&list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM </a>
     </br>
     - youtube basics <a> https://www.youtube.com/watch?v=xvqsFTUsOmc&list=PLGTJdqDBAxoyyxKqcS9b0A89NRXZxfK5i </a>
-    
 
-classical types 
+Extreme basics 
+   -> introduction to natural language process (defintion and scope)
+   -> lingustics , syntax , semantics , pragmatics , morphology , corpous , token , lexicon , stop words , multilingualsim ,, script diversity 
+
+ ### basics 
+   lingusitic levels 
+   -> phonetics , phonology , morphology , morpheme , lexical level ,  syntax , semantics ,  discourse  , pragmaatics 
+   
+   NLP pipeline process 
+   text processing , tokenization (lexical analysis) , morphological processing (stemming / lemmatization) , part of speech tagging , synatactic analysis , semantic analysis , discourse processing , pragmatic analysis 
+   | Linguistics   | NLP                  |
+|--------------|----------------------|
+| Morphology   | Stemming/Lemmatization |
+| Lexical      | Tokenization          |
+| Syntax       | Parsing               |
+| Semantics    | Meaning extraction    |
+| Discourse    | Context tracking      |
+| Pragmatics   | Intent detection      |
+
+   
+   
+
+### classical types 
   - semantic analysis
   - syntatic analysis
-  - 
-
+  - constituency grammer
+  - dependency grammer
+  - context free grammer
+  - regular expression
+  - finite - state
+  - automata
+  - morphological analysis and parsing
+  - dependency parsing
+  - tokenization
+  - stemming
+  - lemmatizatin
+  - stop words removal
+  - part of speech tagging
+  - information extraction
+  - named entity recognition
+  - hidden markov models
+  - viterbi algorthm
+  - conditional random fields
+  - maximum entropy models 
 
     
     
