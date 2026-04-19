@@ -22,7 +22,13 @@ Extreme basics
    -> phonetics , phonology , morphology , morpheme , lexical level ,  syntax , semantics ,  discourse  , pragmaatics 
    
    NLP pipeline process 
-   text processing , tokenization (lexical analysis) , morphological processing (stemming / lemmatization) , part of speech tagging , synatactic analysis , semantic analysis , discourse processing , pragmatic analysis 
+   text processing , tokenization (lexical analysis) , morphological processing (stemming / lemmatization) , stop words , part of speech tagging , synatactic analysis , semantic analysis , discourse processing , pragmatic analysis 
+   - Feature engineering count vectors and TF - IDF
+  
+   POS tagging steps methods and algorthms , corpa , corpus , suffix stripping ,machine translations , text segementations and NER 
+   corpa and its applications 
+   
+   
    | Linguistics   | NLP                  |
 |--------------|----------------------|
 | Morphology   | Stemming/Lemmatization |
@@ -31,6 +37,8 @@ Extreme basics
 | Semantics    | Meaning extraction    |
 | Discourse    | Context tracking      |
 | Pragmatics   | Intent detection      |
+
+
 
    
    
@@ -51,6 +59,8 @@ Extreme basics
   - lemmatizatin
   - stop words removal
   - part of speech tagging
+  - machine translations
+  - corpus (data source )
   - information extraction
   - named entity recognition
   - hidden markov models
